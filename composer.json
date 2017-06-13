@@ -1,0 +1,12 @@
+{
+    "name": "mintegrations/zendesk_api_presentation",
+    "authors": [
+        {
+            "name": "Samuel Gavinio",
+            "email": "samgavinio@gmail.com"
+        }
+    ],
+    "require": {
+        "zendesk/zendesk_api_client_php": "^2.1"
+    }
+}
